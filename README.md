@@ -13,7 +13,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 ## Ferramentas de Desenvolvimento
-<code><img height="32" src="https://logospng.org/wp-content/uploads/visual-studio-code.png" alt="Visual Studio Code"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 
 ## Projetos
