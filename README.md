@@ -1,8 +1,8 @@
-# Olá, eu sou Débora ! 👋
+# Olá, eu sou Débora! 👋
 
 ## Sobre mim
 - 🎓 Bacharelanda em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
-- 📚 Atualmente estou focada no estudo da linguagem C na faculdade e HTML/CSS/JavaScript em projetos pessoal.
+- 📚 Atualmente, estou cursando o 1º período da graduação.
 - 🌍 Tenho planos de fazer mestrado no exterior após concluir minha graduação.
 
 ## Habilidades Técnicas
@@ -20,5 +20,8 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deboradls/)
 - 📧 E-mail: deboradls@outlook.com.br
 - 📸 Instagram: [@deboradls](https://www.instagram.com/deboradls/)
+
+## Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deboradls)
 
 Fique à vontade para entrar em contato comigo e acompanhar minha jornada na área de tecnologia!
