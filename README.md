@@ -1,6 +1,6 @@
 # Olá, eu sou Débora! 👋
 
-## Sobre mim
+## Sobre Mim
 - 🎓 Bacharelanda em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 - 📚 Atualmente, estou cursando o 1º período da graduação.
 - 🌍 Tenho planos de fazer mestrado no exterior após concluir minha graduação.
@@ -12,8 +12,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-## Ferramentas de desenvolvimento
-<code><img height="32" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/></code>
+## Ferramentas de Desenvolvimento
+<code><img height="32" src="https://logospng.org/wp-content/uploads/visual-studio-code.png" alt="Visual Studio Code"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 
 ## Projetos
@@ -27,7 +27,7 @@
 - 📧 E-mail: deboradls@outlook.com.br
 - 📸 Instagram: [@deboradls](https://www.instagram.com/deboradls/)
 
-## Informações sobre minha conta GitHub
+## Informações Sobre Minha Conta GitHub
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboradls&theme=dracula&show_icons=true" />
 </a>
 
