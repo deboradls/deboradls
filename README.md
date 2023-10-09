@@ -26,6 +26,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deboradls/)
 - 📧 E-mail: deboradls@outlook.com.br
 - 📸 Instagram: [@deboradls](https://www.instagram.com/deboradls/)
+
 Feel free to get in touch with me and follow my journey in the field of technology!
 
 ## GitHub Account Information
