@@ -30,6 +30,4 @@
 Feel free to get in touch with me and follow my journey in the field of technology!
 
 ## GitHub Account Information
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboradls&theme=dracula&show_icons=true" /> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deboradls&layout=compact&theme=dracula)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboradls&theme=dracula&show_icons=true" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deboradls&layout=compact&theme=dracula)
