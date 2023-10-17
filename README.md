@@ -30,7 +30,9 @@
 Feel free to get in touch with me and follow my journey in the field of technology!
 
 ## GitHub Account Information
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=deboradls&theme=dracula&show_icons=true" /> 
-<img height="100em" width="400em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=deboradls&layout=compact&theme=dracula"/>
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deboradls&theme=dracula&show_icons=true&hide=prs&show=" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="120em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=deboradls&layout=compact&theme=dracula" />
+</a>
