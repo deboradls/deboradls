@@ -7,14 +7,10 @@
 - 📊 Concepts of data structures and algorithms.
 
 ## Languages and Tools
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" alt="Linux"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"/></code>
-<code><img height="32" src="https://pachecoandre.com.br/assets/imgs/posts/git.png" alt="Git"/></code>
-<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"/></code>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,linux,vscode,git,github" alt="My Skills" width="400">
+</a>
+
 
 ## Projects
 - 🚧 Currently, I am working on creating my online portfolio, where I intend to showcase academic and personal projects.
@@ -23,7 +19,7 @@
 - 🚀 I am still in search of my first professional experience in the technology field.
 
 ## Contacts
-- 🔗 [LinkedIn](https://www.linkedin.com/in/deboradls/)
+- 🔗 LinkedIn: [Débora Lima](https://www.linkedin.com/in/deboradls/)
 - 📸 Instagram: [@deboradls](https://www.instagram.com/deboradls/)
 - 📱 Telegram: [@deboradls](https://t.me/deboradls)
 - 📧 E-mail: deboradls@outlook.com.br
