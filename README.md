@@ -2,7 +2,7 @@
 ## About me
 <!--Gif Nezuko-->
   <div>
-   <img src="https://media.tenor.com/FyE93GEH0QYAAAAC/kawaii-kamado-nezuko.gif" alt="Nezuko" width="150" style="float: right; padding: 20px;">
+   <img src="https://media.tenor.com/FyE93GEH0QYAAAAC/kawaii-kamado-nezuko.gif" alt="Nezuko" width="150" style="float: right; padding: 10px;">
   </div>
 
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
