@@ -1,6 +1,9 @@
 # Hi, I'm Débora! 👋
-
 ## About me 
+<div style="float: right; padding: 10px;">
+  <img src="https://media.tenor.com/FyE93GEH0QYAAAAC/kawaii-kamado-nezuko.gif" alt="Nezuko" width="150" style="border-radius: 10px;">
+</div>
+ 
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
 - 📚 Currently, I'm in my 1st semester of the undergraduate program.
 - 🌍 I have plans to pursue a master's degree abroad after completing my bachelor's degree.
@@ -8,7 +11,7 @@
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,linux,vscode,git,github" alt="My Skills" width="400">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,linux,vscode,git,github" alt="Languages and Tools" width="400">
 </a>
 
 ## Projects
@@ -18,15 +21,19 @@
 - 🚀 I am still in search of my first professional experience in the technology field.
 
 ## Contacts
+<!--LinkedIn-->
 <a href="https://www.linkedin.com/in/deboradls" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
+<!--Instagram-->
 <a href="https://www.instagram.com/deboradls" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
+<!--Telegram-->
 <a href="https://t.me/deboradls" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
 </a>
+<!--Outlook-->
 <a href="mailto:deboradls@outlook.com.br" target="_blank">
   <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
