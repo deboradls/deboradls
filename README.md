@@ -1,9 +1,10 @@
 # Hi, I'm Débora! 👋
 ## About me
 
-<p align="center">
-  <img src="https://i.pinimg.com/564x/6e/91/2f/6e912f30ee2b48ef7b33547cf8f267a7.jpg" alt="Nezuko" width="150">
-</p>
+<div> 
+  <img align="right" alt="Raphtalia" height="200" src="https://i.pinimg.com/564x/6e/91/2f/6e912f30ee2b48ef7b33547cf8f267a7.jpg" style="padding: 10px;">
+</div>
+  <link rel="stylesheet" href=>
 
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
 - 📚 Currently, I'm in my 1st semester of the undergraduate program.
