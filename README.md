@@ -1,9 +1,9 @@
 # Hi, I'm Débora! 👋
-## About me 
-<div style="float: right; padding: 10px;">
-  <img src="https://media.tenor.com/FyE93GEH0QYAAAAC/kawaii-kamado-nezuko.gif" alt="Nezuko" width="150" style="border-radius: 10px;">
-</div>
- 
+## About me
+<!--Gif Nezuko-->
+  <img src="https://media.tenor.com/FyE93GEH0QYAAAAC/kawaii-kamado-nezuko.gif" alt="Nezuko" width="150" style="float: right; padding: 20px;">
+
+
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
 - 📚 Currently, I'm in my 1st semester of the undergraduate program.
 - 🌍 I have plans to pursue a master's degree abroad after completing my bachelor's degree.
