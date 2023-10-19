@@ -18,19 +18,15 @@
 - 🚀 I am still in search of my first professional experience in the technology field.
 
 ## Contacts
-<!--Linkedin-->
 <a href="https://www.linkedin.com/in/deboradls" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<!--Instagram-->
 <a href="https://www.instagram.com/deboradls" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-<!--Telegram-->
 <a href="https://t.me/deboradls" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
 </a>
-<!--Outlook-->
 <a href="mailto:deboradls@outlook.com.br" target="_blank">
   <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
