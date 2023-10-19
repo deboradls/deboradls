@@ -2,7 +2,7 @@
 ## About me
 
 <div> 
-  <img align="right" alt="Raphtalia" height="150" src="https://media.tenor.com/FyE93GEH0QYAAAAC/kawaii-kamado-nezuko.gif" style="padding: 10px;">
+  <img align="right" alt="Raphtalia" height="150" src="https://media.tenor.com/FyE93GEH0QYAAAAC/kawaii-kamado-nezuko.gif" style="padding: 20px;">
 </div>
   <link rel="stylesheet" href=>
 
