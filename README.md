@@ -2,7 +2,7 @@
 ## About me
 
 <div> 
-  <img align="right" alt="Raphtalia" height="200" src="https://i.pinimg.com/564x/6e/91/2f/6e912f30ee2b48ef7b33547cf8f267a7.jpg" style="padding: 10px;">
+  <img align="right" alt="Raphtalia" height="250" src="https://i.pinimg.com/564x/6e/91/2f/6e912f30ee2b48ef7b33547cf8f267a7.jpg" style="padding: 10px;">
 </div>
   <link rel="stylesheet" href=>
 
