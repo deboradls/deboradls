@@ -24,8 +24,9 @@
 
 ## Contacts
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deboradls/)
-- 📧 E-mail: deboradls@outlook.com.br
 - 📸 Instagram: [@deboradls](https://www.instagram.com/deboradls/)
+- 📱 Telegram: [@deboradls](t.me/deboradls)
+- 📧 E-mail: deboradls@outlook.com.br
 
 Feel free to get in touch with me and follow my journey in the field of technology!
 
