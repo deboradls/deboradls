@@ -44,7 +44,7 @@
 Feel free to get in touch with me and follow my journey in the field of technology!
 
 ## GitHub Account Information
-<div style="text-align: center;">
+<div align="center">
 <!--Github Stats-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=deboradls&theme=dracula&hide=prs&show_icons=true&rank_icon=github&show=" />
