@@ -14,7 +14,7 @@
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,linux,vscode,git,github,markdown,bash" alt="Languages and Tools">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,md,linux,vscode,git,github,bash,replit" alt="Languages and Tools">
 </a>
 
 ## Projects
