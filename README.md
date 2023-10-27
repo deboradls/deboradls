@@ -21,7 +21,7 @@
 - 🚧 Currently, I am working on creating my online portfolio, where I intend to showcase academic and personal projects.
 
 ## Professional Experience
-- 🚀 I am still in search of my first professional experience in the technology field.
+- 🚀 During a two-month period, I had the opportunity to participate in the Núcleo de Desenvolvimento de Sistemas (NDS), a laboratory at IFCE that develops internal systems for the university. I was involved in the DevOps sector, and this experience allowed me to deepen my knowledge and acquire practical skills related to software development and operations.
 
 ## Contacts
 <div align="center">
