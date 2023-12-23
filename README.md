@@ -8,7 +8,7 @@
   <link rel="stylesheet" href=>
 
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
-- 📚 Currently, I'm in my 1st semester of the undergraduate program.
+- 📚 Currently, I'm in my 2st semester of the undergraduate program.
 - 🌍 I have plans to pursue a master's degree abroad after completing my bachelor's degree.
 - 📊 Concepts of data structures and algorithms. 
 
