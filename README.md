@@ -9,8 +9,10 @@
 
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
 - 📚 Currently, I'm in my 2st semester of the undergraduate program.
-- 🌍 I have plans to pursue a master's degree abroad after completing my bachelor's degree.
-- 📊 Concepts of data structures and algorithms. 
+- 💻 Studying web development alongside my degree.
+- 🌍 I have plans to do a master's degree abroad, with a focus on cybersecurity, after completing my bachelor's degree.
+- 📊 Concepts of data structures and algorithms.
+- 📖 Addicted to coffee and books.
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
