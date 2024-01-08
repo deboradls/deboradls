@@ -2,8 +2,8 @@
 ## About me
 
 <div> 
-<!--Icone Raphtalia-->
-  <img align="right" alt="Raphtalia" height="240" src="https://i.pinimg.com/564x/6e/91/2f/6e912f30ee2b48ef7b33547cf8f267a7.jpg" style="padding: 10px;">
+<!--Icone Déb-chibi-->
+  <img align="right" alt="Débora - Stylle Chibi" height="250" src="icone-deb.png" style="padding: 5px;">
 </div>
   <link rel="stylesheet" href=>
 
