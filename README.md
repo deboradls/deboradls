@@ -3,7 +3,7 @@
 
 <div> 
 <!--Icone Déb-chibi-->
-  <img align="right" alt="Débora - Stylle Chibi" height="250" src="icone-deb.png" style="padding: 5px;">
+  <img align="right" alt="Débora - Stylle Chibi" height="240" src="icone-deb.png" style="padding: 3px;">
 </div>
   <link rel="stylesheet" href=>
 
