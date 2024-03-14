@@ -1,6 +1,6 @@
 # Hi, I'm Débora! 👋
-## About me
 
+## About me
 <div> 
 <!--Icone Déb-chibi-->
   <img align="right" alt="Débora - Stylle Chibi" height="220" src="icone-deb.png" style="padding: 10px">
@@ -23,6 +23,10 @@
 - 🚧 Currently, I am working on creating my online portfolio, where I intend to showcase academic and personal projects.
 
 ## Professional Experience
+### Laboratório de Sistemas Computacionais (LASIC)
+- 👩🏻‍💻 Currently, I am a scholarship holder at the Laboratório de Sistemas Computacionais (LASIC), a laboratory at IFCE (Federal Institute of Education, Science, and Technology of Ceará), where I am focused on developing front-end skills, using HTML, CSS, JavaScript, and React.
+
+### Núcleo de Desenvolvimento de Sistemas (NDS)
 - 🚀 During a two-month period, I had the opportunity to participate in the Núcleo de Desenvolvimento de Sistemas (NDS), a laboratory at IFCE that develops internal systems for the university. I was involved in the DevOps sector, and this experience allowed me to deepen my knowledge and acquire practical skills related to software development and operations.
 
 ## Contacts
@@ -61,4 +65,5 @@ Feel free to get in touch with me and follow my journey in the field of technolo
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboradls&layout=compact&theme=dracula"/>
   </a>
+  <br>
 </div>
