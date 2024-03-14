@@ -1,5 +1,4 @@
 # Hi, I'm Débora! 👋
-
 ## About me
 <div> 
 <!--Icone Déb-chibi-->
@@ -11,8 +10,9 @@
 - 📚 Currently, I'm in my 2st semester of the undergraduate program.
 - 💻 Studying web development alongside my degree.
 - 🌍 I have plans to do a master's degree abroad, with a focus on cybersecurity, after completing my bachelor's degree.
-- 📊 Concepts of data structures and algorithms.
 - 📖 Addicted to coffee and books.
+
+ This is my space where I share a bit of my journey and the projects I've been working on. I hope you find something of interest here!
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 
 ## Professional Experience
 ### Laboratório de Sistemas Computacionais (LASIC)
-- 👩🏻‍💻 Currently, I am a scholarship holder at the Laboratório de Sistemas Computacionais (LASIC), a laboratory at IFCE (Federal Institute of Education, Science, and Technology of Ceará), where I am focused on developing front-end skills, using HTML, CSS, JavaScript, and React.
+- 👩🏻‍💻 Currently, I am a scholarship holder at the Laboratório de Sistemas Computacionais (LASIC), a laboratory at IFCE, where I am focused on developing front-end skills, using HTML, CSS, JavaScript, and React.
 
 ### Núcleo de Desenvolvimento de Sistemas (NDS)
 - 🚀 During a two-month period, I had the opportunity to participate in the Núcleo de Desenvolvimento de Sistemas (NDS), a laboratory at IFCE that develops internal systems for the university. I was involved in the DevOps sector, and this experience allowed me to deepen my knowledge and acquire practical skills related to software development and operations.
