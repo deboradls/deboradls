@@ -27,7 +27,7 @@
 - 👩🏻‍💻 Currently, I am a scholarship holder at the Laboratório de Sistemas Computacionais (LASIC), a laboratory at IFCE, where I am focused on developing front-end skills, using HTML, CSS, JavaScript, and React.
 
 ### Núcleo de Desenvolvimento de Sistemas (NDS)
-- 🚀 During a two-month period, I had the opportunity to participate in the Núcleo de Desenvolvimento de Sistemas (NDS), a laboratory at IFCE that develops internal systems for the university. I was involved in the DevOps sector, and this experience allowed me to deepen my knowledge and acquire practical skills related to software development and operations.
+- 🚀 During a two-month period, I volunteered at the Núcleo de Desenvolvimento de Sistemas (NDS), a laboratory at IFCE, which develops internal systems for the university. I was involved in the DevOps sector, and this experience allowed me to deepen my knowledge and acquire practical skills related to software development and operations.
 
 ## Contacts
 <div align="center">
