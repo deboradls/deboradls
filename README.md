@@ -3,7 +3,7 @@
 
 <div> 
 <!--Icone Déb-chibi-->
-  <img align="right" alt="Débora - Stylle Chibi" height="240" src="icone-deb.png" style="padding: 10px">
+  <img align="right" alt="Débora - Stylle Chibi" height="220" src="icone-deb.png" style="padding: 10px">
 </div>
   <link rel="stylesheet" href=>
 
@@ -16,7 +16,7 @@
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,md,linux,vscode,git,github,bash,replit" alt="C, JS, HTML, CSS, Markdown, Linux, VSCode, Git, Github, Bash, Replit">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,md,linux,vscode,git,github" alt="HTML, CSS, C, JS, React, Markdown, Linux, VSCode, Git, Github">
 </a>
 
 ## Projects
