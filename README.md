@@ -8,7 +8,6 @@
 
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
 - 📚 Currently, I'm in my 2st semester of the undergraduate program.
-<!-- - 💻 Studying web development alongside my degree. -->
 - 🌍 I have plans to do a master's degree abroad, with a focus on cybersecurity, after completing my bachelor's degree.
 - Addicted to coffee ☕, books 📚, dramas 📺, anime 🎌, and games 🎮.
 
@@ -16,7 +15,7 @@
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,md,linux,vscode,git,github" alt="HTML, CSS, C, JS, React, Markdown, Linux, VSCode, Git, Github">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,md,linux,windows,vscode,git,github" alt="HTML, CSS, C, JS, React, Markdown, Linux, Windows, VSCode, Git, Github">
 </a>
 
 ## Projects
@@ -26,12 +25,8 @@
 ### Laboratório de Sistemas e Inteligência Computacional (LASIC)
 - 👩🏻‍💻 Currently, I am a scholarship holder at the Laboratório de Sistemas e Inteligência Computacional (LASIC), a laboratory at IFCE, where I am focused on developing front-end skills, using HTML, CSS, JavaScript, and React. I also assist the professor/coordinator in managing the laboratory and have begun my studies in Quality Assurance (QA).
 
-<!-- ### Núcleo de Desenvolvimento de Sistemas (NDS)
-- 🚀 During a two-month period, I volunteered at the Núcleo de Desenvolvimento de Sistemas (NDS), a laboratory at IFCE, which develops internal systems for the university. I was involved in the DevOps sector, and this experience allowed me to deepen my knowledge and acquire practical skills related to software development and operations. -->
-
-## Certifications
-- 📜 [List any relevant certifications]
-
+<!-- ## Certifications
+- 📜 [List any relevant certifications] -->
 
 ## Contacts
 <div align="center">
