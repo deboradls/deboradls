@@ -2,15 +2,15 @@
 ## About me
 <div> 
 <!--Icone Déb-chibi-->
-  <img align="right" alt="Débora - Stylle Chibi" height="220" src="icone-deb.png" style="padding: 10px">
+  <img align="right" alt="Débora" height="200" src="icondeb.jpg" style="padding: 10px">
 </div>
   <link rel="stylesheet" href=>
 
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
 - 📚 Currently, I'm in my 2st semester of the undergraduate program.
-- 💻 Studying web development alongside my degree.
+<!-- - 💻 Studying web development alongside my degree. -->
 - 🌍 I have plans to do a master's degree abroad, with a focus on cybersecurity, after completing my bachelor's degree.
-- 📖 Addicted to coffee and books.
+- Addicted to coffee ☕, books 📚, dramas 📺, anime 🎌, and games 🎮.
 
  This is my space where I share a bit of my journey and the projects I've been working on. I hope you find something of interest here!
 
@@ -24,10 +24,14 @@
 
 ## Professional Experience
 ### Laboratório de Sistemas e Inteligência Computacional (LASIC)
-- 👩🏻‍💻 Currently, I am a scholarship holder at the Laboratório de Sistemas e Inteligência Computacional (LASIC), a laboratory at IFCE, where I am focused on developing front-end skills, using HTML, CSS, JavaScript, and React.
+- 👩🏻‍💻 Currently, I am a scholarship holder at the Laboratório de Sistemas e Inteligência Computacional (LASIC), a laboratory at IFCE, where I am focused on developing front-end skills, using HTML, CSS, JavaScript, and React. I also assist the professor/coordinator in managing the laboratory and have begun my studies in Quality Assurance (QA).
 
-### Núcleo de Desenvolvimento de Sistemas (NDS)
-- 🚀 During a two-month period, I volunteered at the Núcleo de Desenvolvimento de Sistemas (NDS), a laboratory at IFCE, which develops internal systems for the university. I was involved in the DevOps sector, and this experience allowed me to deepen my knowledge and acquire practical skills related to software development and operations.
+<!-- ### Núcleo de Desenvolvimento de Sistemas (NDS)
+- 🚀 During a two-month period, I volunteered at the Núcleo de Desenvolvimento de Sistemas (NDS), a laboratory at IFCE, which develops internal systems for the university. I was involved in the DevOps sector, and this experience allowed me to deepen my knowledge and acquire practical skills related to software development and operations. -->
+
+## Certifications
+- 📜 [List any relevant certifications]
+
 
 ## Contacts
 <div align="center">
@@ -67,12 +71,3 @@ Feel free to get in touch with me and follow my journey in the field of technolo
   </a>
   <br>
 </div>
-
-<img align="right" height="150" src="https://i.gifer.com/av.gif"  />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deboradls/deboradls/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deboradls/deboradls/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deboradls/deboradls/output/github-contribution-grid-snake.svg">
-</picture>
-
