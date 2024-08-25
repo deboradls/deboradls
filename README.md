@@ -67,3 +67,12 @@ Feel free to get in touch with me and follow my journey in the field of technolo
   </a>
   <br>
 </div>
+
+<img align="right" height="150" src="https://i.gifer.com/av.gif"  />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deboradls/deboradls/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deboradls/deboradls/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deboradls/deboradls/output/github-contribution-grid-snake.svg">
+</picture>
+
