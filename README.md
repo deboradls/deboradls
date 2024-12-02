@@ -7,23 +7,26 @@
   <link rel="stylesheet" href=>
 
 - 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
-- 📚 Currently, I'm in my 2st semester of the undergraduate program.
 - 🌍 I have plans to do a master's degree abroad, with a focus on cybersecurity, after completing my bachelor's degree.
-- Addicted to coffee ☕, books 📚, dramas 📺, anime 🎌, and games 🎮.
+- Addicted to coffee ☕, books 📚, doramas 📺, anime 🎌, and games 🎮.
 
  This is my space where I share a bit of my journey and the projects I've been working on. I hope you find something of interest here!
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,md,linux,windows,vscode,git,github" alt="HTML, CSS, C, JS, React, Markdown, Linux, Windows, VSCode, Git, Github">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,md,linux,windows,mint,ubuntu,vscode,git,github,selenium" alt="">
 </a>
 
-## Projects
-- 🚧 Currently, I am working on creating [my online portfolio](https://deboradls.github.io/), where I intend to showcase academic and personal projects.
+## Portfolio
+- 🎨 [my online portfolio](https://deboradls.github.io/), showcases my academic and personal projects.
 
 ## Professional Experience
 ### Laboratório de Sistemas e Inteligência Computacional (LASIC)
-- 👩🏻‍💻 Currently, I am a scholarship holder at the Laboratório de Sistemas e Inteligência Computacional (LASIC), a laboratory at IFCE, where I am focused on developing front-end skills, using HTML, CSS, JavaScript, and React. I also assist the professor/coordinator in managing the laboratory and have begun my studies in Quality Assurance (QA).
+👩🏻‍💻 I am a scholarship holder at the Laboratório de Sistemas e Inteligência Computacional (LASIC) at IFCE, where I focus on developing skills in:
+
+- 💻 Front-end, with a focus on developing interfaces using HTML, CSS, JavaScript, and React.
+
+- ✅ Quality Assurance (QA), I am learning Robot Framework for test automation.
 
 <!-- ## Certifications
 - 📜 [List any relevant certifications] -->
