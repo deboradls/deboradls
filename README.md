@@ -21,8 +21,8 @@
 </a>
 
 ## Professional Experience
-### Laboratório de Sistemas e Inteligência Computacional (LASIC)
-I am a scholarship holder at the Laboratório de Sistemas e Inteligência Computacional (LASIC) at IFCE, where I focus on developing skills in:
+### 👩🏻‍💻 Laboratório de Sistemas e Inteligência Computacional (LASIC)
+I am a scholarship holder at the LASIC at IFCE, where I focus on developing skills in:
 
 - 💻 Front-end, with a focus on developing interfaces using HTML, CSS, JavaScript, and React.
 
@@ -35,8 +35,7 @@ A simple Snake game developed in C language to run in the terminal.
 - ❌ [Tic Tac Toe](https://github.com/deboradls/jogodavelha):
 A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript, allowing two players to play alternately with the option to restart after each round.
 
-- 🤖 [XCardio Test](https://github.com/deboradls/teste_xcardio):
-Project developed to automate tests for the XCardio system, using Robot Framework with SeleniumLibrary to interact with the web interface and automate tasks like checkbox selection and form submission.
+- 🤖 [XCardio Test](https://github.com/deboradls/teste_xcardio):Project developed to automate tests for the XCardio system, using Robot Framework with SeleniumLibrary to interact with the web interface and automate tasks like checkbox selection and form submission.
 
 <!-- ## Certifications
 - 📜 [List any relevant certifications] -->
