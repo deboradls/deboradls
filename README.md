@@ -17,7 +17,7 @@
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,vscode,git,github,selenium" alt="">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,vscode,git,github,postman" alt="">
 </a>
 
 ## Professional Experience
