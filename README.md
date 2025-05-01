@@ -1,35 +1,38 @@
-# Hi, I'm Débora! 👋
-## About me
+# Oi, eu sou a Débora! 👋
+<!-- ## Sobre Mim -->
 <div> 
 <!--Icone Déb-chibi-->
   <img align="right" alt="Débora" height="200" src="icondeb.jpg" style="padding: 10px">
 </div>
   <link rel="stylesheet" href=>
 
-- 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
-- 🌍 I have plans to do a master's degree abroad, with a focus on cybersecurity, after completing my bachelor's degree.
-- Addicted to coffee ☕, books 📚, doramas 📺, anime 🎌, and games 🎮.
+- 🎓 Graduanda em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+- 💻 Atualmente focada em desenvolvimento full stack.
+- 🌍 Tenho planos de fazer mestrado, com foco em cibersegurança, após concluir a graduação.
+- Viciada em café ☕, livros 📚, doramas 📺, animes 🎌, jogos 🎮 e música 🎧.
 
- This is my space where I share a bit of my journey and the projects I've been working on. I hope you find something of interest here!
+Este é o meu espaço onde compartilho um pouco da minha trajetória e dos projetos que venho desenvolvendo. Espero que encontre algo de seu interesse aqui!
 
- ## Portfolio
-- 🎨 [My online portfolio](https://deboradls.github.io/), showcases my academic and personal projects.
+ ## Portfólio
+- 🎨 [Meu portfólio online](https://deboradls.github.io/), onde apresento meus projetos acadêmicos, profissionais e pessoais.
 
-## Languages and Tools
+## Linguagens e Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,vscode,git,github,postman" alt="">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,git,github,vue" alt="">
 </a>
 
-## Professional Experience
-### 👩🏻‍💻 Laboratório de Sistemas e Inteligência Computacional (LASIC)
-I am a scholarship holder at the LASIC at IFCE, where I focus on developing skills in:
-- 💻 Front-end, with a focus on developing interfaces using HTML, CSS, JavaScript, and React.
-- ✅ Quality Assurance (QA), I am learning Robot Framework for test automation.
+## Experiência
+- Fui bolsista por mais de 1 ano no Laboratório de Sistemas e Inteligência Computacional (LASIC), onde adquiri experiência prática em QA e Front-End.
 
-<!-- ## Certifications
-- 📜 [List any relevant certifications] -->
+- Atualmente, trabalho como desenvolvedora Front-End no Instituto de Arquitetos do Brasil (IAB), onde continuo a aprimorar minhas habilidades.
 
-## Contacts
+## Extracurricular
+- Desenvolvimento Full-Stack - COD3R Cursos
+- Engenharia de Software - FIAP
+- Cybersecurity - FIAP
+- Linux Fundamentos - FIAP
+
+## Contatos
 <div align="center">
 <!--LinkedIn-->
 <a href="https://www.linkedin.com/in/deboradls" target="_blank">
@@ -52,10 +55,10 @@ I am a scholarship holder at the LASIC at IFCE, where I focus on developing skil
   <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=email&logoColor=white" target="_blank">
 </a>
 <br>
-Feel free to get in touch with me and follow my journey in the field of technology!
+Sinta-se à vontade para entrar em contato comigo e acompanhar minha jornada na área da tecnologia!
 </div>
 
-## GitHub Account Information
+## Informações da Minha Conta GitHub
 <div align="center">
 <!--Github Stats-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
