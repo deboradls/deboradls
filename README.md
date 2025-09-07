@@ -2,7 +2,7 @@
 <!-- ## Sobre Mim -->
 <div> 
 <!--Icone Frieren-->
-  <img align="right" alt="Frieren Lendo" height="210" src="anime-frieren.gif" style="padding: 10px;">
+  <img align="right" alt="Frieren Lendo" height="213" src="anime-frieren.gif" style="padding: 10px;">
 </div>
 
 
