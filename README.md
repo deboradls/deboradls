@@ -1,8 +1,8 @@
 # Oi, eu sou a Débora! 👋
 <!-- ## Sobre Mim -->
 <div> 
-<!--Icone Déb-chibi-->
-  <img align="right" alt="Frieren Lendo" height="200" src="anime-frieren.gif" style="margin-left: 20px;">
+<!--Icone Frieren-->
+  <img align="right" alt="Frieren Lendo" height="210" src="anime-frieren.gif" style="padding: 10px;">
 </div>
 
 
