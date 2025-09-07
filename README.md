@@ -2,8 +2,10 @@
 <!-- ## Sobre Mim -->
 <div> 
 <!--Icone Déb-chibi-->
-  <img align="right" alt="Débora" height="200" src="icondeb.jpg" style="padding: 10px">
+  <img align="right" alt="Frieren Lendo" height="200" src="anime-frieren.gif" style="padding: 10px">
 </div>
+
+
   <link rel="stylesheet" href=>
 
 - 🎓 Graduanda em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
@@ -18,8 +20,7 @@ Este é o meu espaço onde compartilho um pouco da minha trajetória e dos proje
 
 ## Linguagens e Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,git,github,vue" alt="">
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,git,github,postgres,latex" alt="">
 
 ## Experiência
 - Fui bolsista por mais de 1 ano no Laboratório de Sistemas e Inteligência Computacional (LASIC), onde adquiri experiência prática em QA e Front-End.
@@ -47,7 +48,7 @@ Este é o meu espaço onde compartilho um pouco da minha trajetória e dos proje
   <img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
 </a>
 <!-- Gmail -->
-<a href="mailto:debora.lima07@aluno.ifce.edu.br" target="_blank">
+<a href="mailto:deb.limad@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <!--Outlook-->
