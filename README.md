@@ -2,7 +2,7 @@
 <!-- ## Sobre Mim -->
 <div> 
 <!--Icone Déb-chibi-->
-  <img align="right" alt="Frieren Lendo" height="200" src="anime-frieren.gif" style="padding: 10px">
+  <img align="right" alt="Frieren Lendo" height="200" src="anime-frieren.gif" style="padding: 15px">
 </div>
 
 
@@ -21,6 +21,7 @@ Este é o meu espaço onde compartilho um pouco da minha trajetória e dos proje
 ## Linguagens e Ferramentas
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,git,github,postgres,latex" alt="">
+</a>
 
 ## Experiência
 - Fui bolsista por mais de 1 ano no Laboratório de Sistemas e Inteligência Computacional (LASIC), onde adquiri experiência prática em QA e Front-End.
