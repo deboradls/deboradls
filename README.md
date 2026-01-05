@@ -34,13 +34,13 @@
 <br>
 
 ### 📌 Metodologias
-✔️ Scrum  
-✔️ Kanban  
+✔️ Scrum <br>
+✔️ Kanban <br>
 
 ### 📦 Outros Conhecimentos
-✔️ Robot Framework 
+✔️ Robot Framework <br>
 ✔️ Selenium <br>
-✔️ SQL
+✔️ SQL <br>
 
 ## Experiência
 - 🎓 Bolsista no LASIC (Laboratório de Sistemas e Inteligência Computacional) por mais de 1 ano, atuando com QA e Front-End, incluindo testes manuais e automatizados, documentação de bugs e desenvolvimento de interfaces.
