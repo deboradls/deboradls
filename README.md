@@ -9,30 +9,50 @@
   <link rel="stylesheet" href=>
 
 - 🎓 Graduanda em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
-- 💻 Atualmente focada em desenvolvimento full stack.
-- 🌍 Tenho planos de fazer mestrado, com foco em cibersegurança, após concluir a graduação.
-- Viciada em café ☕, livros 📚, doramas 📺, animes 🎌, jogos 🎮 e música 🎧.
+- 💻 Atuo com Desenvolvimento Front-End e Quality Assurance, com foco atual em desenvolvimento full stack e boas práticas de qualidade de software.
+- 🔐 Tenho planos de seguir para o mestrado com foco em Cibersegurança após a graduação.
+- Apaixonada por café ☕, livros 📚, doramas 📺, animes 🎌, jogos 🎮 e música 🎧 - combustível diário para codar melhor.
 
-Este é o meu espaço onde compartilho um pouco da minha trajetória e dos projetos que venho desenvolvendo. Espero que encontre algo de seu interesse aqui!
+✨ Este perfil reúne projetos acadêmicos, pessoais e profissionais voltados ao desenvolvimento de software. Fique à vontade para explorar!
 
  ## Portfólio
 - 🎨 [Meu portfólio online](https://deboradls.github.io/), onde apresento meus projetos acadêmicos, profissionais e pessoais.
 
-## Linguagens e Ferramentas
+## 🛠️ Linguagens e Ferramentas
+
+### 💻 Desenvolvimento
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,git,github,postgres,latex" alt="">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,python,c" 
+  />
 </a>
 
-## Experiência
-- Fui bolsista por mais de 1 ano no Laboratório de Sistemas e Inteligência Computacional (LASIC), onde adquiri experiência prática em QA e Front-End.
+### ⚙️ Ferramentas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,postgres,md,latex,vscode" 
+  />
+</a>
+<br>
 
-- Atualmente, trabalho como desenvolvedora Front-End no Instituto de Arquitetos do Brasil (IAB), onde continuo a aprimorar minhas habilidades.
+### 📌 Metodologias
+✔️ Scrum  
+✔️ Kanban  
+
+### 📦 Outros Conhecimentos
+✔️ Robot Framework 
+✔️ Selenium <br>
+✔️ SQL
+
+## Experiência
+- 🎓 Bolsista no LASIC (Laboratório de Sistemas e Inteligência Computacional) por mais de 1 ano, atuando com QA e Front-End, incluindo testes manuais e automatizados, documentação de bugs e desenvolvimento de interfaces.
+
+- 🏛️ Desenvolvedora Front-End no Instituto de Arquitetos do Brasil (IAB), trabalhando na manutenção e desenvolvimento de sites institucionais, páginas de eventos de grande porte e melhorias de usabilidade e performance.
 
 ## Extracurricular
-- Desenvolvimento Full-Stack - COD3R Cursos
-- Engenharia de Software - FIAP
-- Cybersecurity - FIAP
-- Linux Fundamentos - FIAP
+- Desenvolvimento Full-Stack – COD3R (Cursando)
+- Engenharia de Software – FIAP (Cursando)
+- Cybersecurity – FIAP (Cursando)
+- Fundamentos em Cibersegurança – CENTEC
+- Linux Fundamentos – FIAP
 
 ## Contatos
 <div align="center">
@@ -60,15 +80,14 @@ Este é o meu espaço onde compartilho um pouco da minha trajetória e dos proje
 Sinta-se à vontade para entrar em contato comigo e acompanhar minha jornada na área da tecnologia!
 </div>
 
-## Informações da Minha Conta GitHub
+<!-- ## Informações da Minha Conta GitHub
 <div align="center">
-<!--Github Stats-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="" src="https://github-readme-stats.vercel.app/api?username=deboradls&theme=dracula&hide=issues&show_icons=true&rank_icon=github&show="/>
   </a>
-  <!--Languages-->
+
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboradls&layout=compact&theme=dracula"/>
   </a>
   <br>
-</div>
+</div> -->
