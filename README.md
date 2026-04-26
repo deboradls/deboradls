@@ -8,14 +8,10 @@
 
   <link rel="stylesheet" href=>
 
-- 🎓 Graduanda em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
-  
-- 📊 Atualmente atuando na área de Dados na Solar Coca-Cola, desenvolvendo experiência com análise, organização e interpretação de dados.
-  
-- 💻 Experiência prévia com Front-End e Quality Assurance, com foco em evolução para Full Stack e boas práticas de engenharia de software.
-  
-- 🔐 Tenho planos de seguir para o mestrado com foco em Cibersegurança após a graduação.
-  
+- 🎓 Graduanda em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).  
+- 📊 Atualmente atuando na área de Dados na Solar Coca-Cola, desenvolvendo experiência com análise, organização e interpretação de dados.  
+- 💻 Experiência prévia com Front-End e Quality Assurance, com foco em evolução para Full Stack e boas práticas de engenharia de software.  
+- 🔐 Tenho planos de seguir para o mestrado com foco em Cibersegurança após a graduação.  
 - Apaixonada por café ☕, livros 📚, doramas 📺, animes 🎌, jogos 🎮 e música 🎧 - combustível diário para codar melhor.
 
 ✨ Este perfil reúne projetos acadêmicos, pessoais e profissionais voltados ao desenvolvimento de software. Fique à vontade para explorar!
