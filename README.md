@@ -9,14 +9,19 @@
   <link rel="stylesheet" href=>
 
 - 🎓 Graduanda em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
-- 💻 Atuo com Desenvolvimento Front-End e Quality Assurance, com foco atual em desenvolvimento full stack e boas práticas de qualidade de software.
+  
+- 📊 Atualmente atuando na área de Dados na Solar Coca-Cola, desenvolvendo experiência com análise, organização e interpretação de dados.
+  
+- 💻 Experiência prévia com Front-End e Quality Assurance, com foco em evolução para Full Stack e boas práticas de engenharia de software.
+  
 - 🔐 Tenho planos de seguir para o mestrado com foco em Cibersegurança após a graduação.
+  
 - Apaixonada por café ☕, livros 📚, doramas 📺, animes 🎌, jogos 🎮 e música 🎧 - combustível diário para codar melhor.
 
 ✨ Este perfil reúne projetos acadêmicos, pessoais e profissionais voltados ao desenvolvimento de software. Fique à vontade para explorar!
 
- ## Portfólio
-- 🎨 [Meu portfólio online](https://deboradls.github.io/), onde apresento meus projetos acadêmicos, profissionais e pessoais.
+ <!-- ## Portfólio
+- 🎨 [Meu portfólio online](https://deboradls.github.io/), onde apresento meus projetos acadêmicos, profissionais e pessoais. -->
 
 ## 🛠️ Linguagens e Ferramentas
 
@@ -43,9 +48,11 @@
 ✔️ SQL <br>
 
 ## Experiência
-- 🎓 Bolsista no LASIC (Laboratório de Sistemas e Inteligência Computacional) por mais de 1 ano, atuando com QA e Front-End, incluindo testes manuais e automatizados, documentação de bugs e desenvolvimento de interfaces.
+- 🎓 Bolsista no Laboratório de Sistemas e Inteligência Computacional (LASIC) por mais de 1 ano, atuando com QA e Front-End, incluindo testes manuais e automatizados, documentação de bugs e desenvolvimento de interfaces.
 
 - 🏛️ Desenvolvedora Front-End no Instituto de Arquitetos do Brasil (IAB), trabalhando na manutenção e desenvolvimento de sites institucionais, páginas de eventos de grande porte e melhorias de usabilidade e performance.
+
+- 🥤 Área de Dados na Solar Coca-Cola, atuando com análise, organização e interpretação de dados, apoiando processos internos e contribuindo para a geração de insights.
 
 ## Extracurricular
 - Desenvolvimento Full-Stack – COD3R (Cursando)
